@@ -1,0 +1,372 @@
+.block1{
+width: 1036px;
+height: 350px;
+background: #09200C;
+border: 3px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 33px;
+justify-content: center;
+display: flex;
+margin: 0 auto;
+margin-left: 700px;
+position: static;
+background: url(https://www.bhmpics.com/download/lemon_frog-1920x1080.jpg) 80% 8% no-repeat;
+}
+.block2{
+width: 385px;
+height: 920px;
+border-radius: 29px;
+background:#b6e942;
+justify-content: center;
+display: flex;
+margin: 0 auto;
+margin-left: 700px;
+margin-top: 10px;
+}
+.block3{
+  position: absolute;
+width: 350px;
+height: 100px;
+
+background: #09200c;
+border-radius: 33px;
+margin-top: 10px;
+}
+.text1{
+  font-family: sans-serif;
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  margin-left: -645px;
+  margin-top: -48px;
+}
+.huy1{
+  font-family: serif;
+  font-size: 20px;
+  color: rgb(24, 9, 2);
+  margin-top: 140px;
+  opacity: 60%;
+  white-space: nowrap;
+  line-height: 1.5;
+}
+.block4{
+position: fixed;
+display: flex;
+width: 609px;
+height: 922px;
+margin-left: 1075px;
+border-radius: 33px;
+background: #ffffff;
+}
+.block5{
+  position: absolute;
+  width: 230px;
+  height: 70px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 23px;
+  background: #739c1c;
+
+  }
+  .huy2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  margin-top: 19px;
+  opacity: 90%;
+  white-space: nowrap;
+  line-height: 1.5;
+  font-weight: bolder;
+  justify-content: center;
+  display: flex;
+ }
+ .block6{
+  position: absolute;
+  width: 230px;
+  height: 70px;
+  margin-left: 735px;
+  margin-top: 230px;
+  border-radius: 23px;
+  background: #739c1c;
+ }
+ .huy3{
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  margin-top: 19px;
+  opacity: 90%;
+  white-space: nowrap;
+  line-height: 1.5;
+  font-weight: bolder;
+  justify-content: center;
+  display: flex;
+ }
+.block7{
+  position: absolute;
+  width: 230px;
+  height: 70px;
+  margin-left: 735px;
+  margin-top: 460px;
+  border-radius: 23px;
+  background: #739c1c;
+}
+.huy4{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  margin-top: 19px;
+  opacity: 90%;
+  white-space: nowrap;
+  line-height: 1.5;
+  font-weight: bolder;
+  justify-content: center;
+  display: flex;
+}
+.block8{
+  position: absolute;
+  width: 230px;
+  height: 70px;
+  margin-left: 735px;
+  margin-top: 690px;
+  border-radius: 23px;
+  background: #739c1c;
+}
+.huy5{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  margin-top: 19px;
+  opacity: 90%;
+  white-space: nowrap;
+  line-height: 1.5;
+  font-weight: bolder;
+  justify-content: center;
+  display: flex;
+}
+.textblock1{
+  font-family: 'Blippo-Black CY (Rus by me)';
+  font-size: 65px;
+  color: rgb(255, 255, 255);
+  margin-top: 80px;
+  margin-left: -600px;
+  opacity: 90%;
+  white-space: nowrap;
+  font-style: italic;
+  font-weight: bold;
+}
+.textblock3{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  margin-top: 26px;
+  margin-left: 100px;
+  opacity: 90%;
+  white-space: nowrap;
+  line-height: 1.5;
+  font-weight: bolder;
+}
+.textblog2{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  margin-top: 0px;
+  margin-left: -20px;
+  opacity: 90%;
+  white-space: nowrap;
+  display: flex;
+  justify-content: center;
+  line-height: 0.3;
+}
+.searcher{
+  position: absolute;
+width: 200px;
+height: 25px;
+background: #FFFFFF;
+margin-top: 230px;
+margin-left: -705px;
+border: 3px solid #555555;
+}
+.search{
+  position: absolute;
+width: 142px;
+height: 35px;
+background: #1c2901;
+margin-top: 228px;
+margin-left: -300px;
+}
+.searchtext{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 23px;
+  color: rgb(255, 255, 255);
+  margin-top:0px;
+  margin-left: 38px;
+  opacity: 90%;
+  white-space: nowrap;
+  line-height: 1.5;
+}
+.underhuy2{
+  font-family: sans-serif ;
+  font-size: 15px;
+  color: #7d7d7d;
+  margin-top: 60px;
+  margin-left: 30px;
+  opacity: 70%;
+}
+.underhuy6{
+  font-family: sans-serif ;
+  font-size: 15px;
+  color: #7d7d7d;
+  margin-top: 60px;
+  margin-left: 30px;
+  opacity: 70%;
+}
+.underhuy7{
+  font-family: sans-serif ;
+  font-size: 15px;
+  color: #7d7d7d;
+  margin-top: 60px;
+  margin-left: 30px;
+  opacity: 70%;
+}
+.underhuy8{
+  font-family: sans-serif ;
+  font-size: 15px;
+  color: #7d7d7d;
+  margin-top: 60px;
+  margin-left: 30px;
+  opacity: 70%;  
+}
+.lineblock{
+  opacity: 50%;
+  margin-left: 270px;
+}
+.textblock4{
+  font-family: 'Times New Roman', Times;
+  margin-top: 40px;
+  margin-left: 10px;
+  font-weight: bold;
+  color: #7d7d7d;
+}
+.undertext4{
+  font-family: 'Times New Roman', Times;
+  font-weight:lighter   ;
+  color: #739c1c;
+}
+.undertext1{
+  font-family: 'Times New Roman', Times;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
+
+.lineblock1{
+  opacity: 50%;
+  width: 310px;
+  margin-right: 15px;
+}
+.zaeblo{
+font-size: 20px;
+}
+.underzaeblo{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: lighter;
+  font-size: 18px;
+  margin-top: 10px;
+  color: #739c1c;
+}
+.underblock777{
+  position: absolute;
+width: 320px;
+height: 40px;
+background: #c4c4c4;
+border-radius: 54px;
+margin-top: 50px;
+display: flex;
+justify-content: center;
+margin-left: -3px; 
+}
+.readcomms{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #000000;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 6px;
+  border-bottom:rgb(0, 0, 0);
+  text-decoration: underline;
+}
+.underblock228{
+  width: 320px;
+  height: 40px;
+  background: #c4c4c4;
+  border-radius: 54px;
+  margin-top: 260px;
+  display: flex;
+  justify-content: center;
+  margin-left: -3px; 
+}
+.readcomms1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #000000;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 6px;
+  border-bottom:rgb(0, 0, 0);
+  text-decoration: underline;
+}
+.fusce{
+  font-family: 'Times New Roman', Times;
+  font-size: 16px;
+  font-weight: bold;
+  color: #7d7d7d;
+  margin-top: 120px;
+  font-family: 'Times New Roman', Times;
+  
+}
+.underundertext1{
+margin-left: 16px;
+}
+.lion{
+width: 318px;
+height: 200px;
+margin-left: -5px;
+background: url(https://pbs.twimg.com/media/EIuOFvmXkAA60gc.jpg) 53% 40%no-repeat;
+border-radius: 54px;
+border: double #7d7d7d;
+}
+.liontext{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 28px;
+  margin-top: 210px;
+  display: flex;
+  margin-left: 25px;
+  white-space: nowrap;
+}
+.lionunder{
+  font-family: 'Times New Roman', Times, serif;
+  color:#7d7d7d;
+  font-size: 17px;
+  display: flex;
+  margin-top: 40px;
+  margin-left: -270px;
+  white-space: normal;
+}
+.commssquare{ 
+  position: absolute;
+  width: 320px;
+  height: 40px;
+  background: #c4c4c4;
+  border-radius: 54px;
+  margin-top: 110px;
+  margin-left: -28px;
+  display: flex;
+}
+.commstext{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #000000;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 6px;
+  border-bottom: rgb(0, 0, 0);
+  text-decoration: underline;
+  display: flex;
+  margin-left: 30px;
+}
